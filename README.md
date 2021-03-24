@@ -1,4 +1,4 @@
-# trying
+# vue-plugins
 
 ## Build Setup
 
