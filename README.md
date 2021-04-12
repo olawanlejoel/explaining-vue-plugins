@@ -2,6 +2,8 @@
 
 ## Build Setup
 
+To install this locally, clone this repo and then follow the instructions below
+
 ```bash
 # install dependencies
 $ yarn install
